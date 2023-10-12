@@ -10,7 +10,7 @@ With the increase in large PDF files, it can be cumbersome to manage and share t
 
 1. Clone the repository:
 ```
-git clone https://github.com/YOUR_GITHUB_USERNAME/PDFSplitter.git
+git clone https://github.com/daishir0/PDFSplitter.git
 ```
 
 2. Navigate to the cloned directory and install the required packages:
